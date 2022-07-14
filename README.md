@@ -3,5 +3,5 @@
 Programa criado para explorar a geraçao de objetos 3d, transformaçoes e projecão.
 
 Utilizado a Canvas2D API e linguagem C.
-![image](https://user-images.githubusercontent.com/33886884/178130732-59dca260-06bf-4e94-b692-c0d578f54055.png)
 
+![ezgif-5-fdbfaa2080](https://user-images.githubusercontent.com/33886884/179049932-fe0a6cd7-7a74-4d16-aa79-46a1914ce1ae.gif)
